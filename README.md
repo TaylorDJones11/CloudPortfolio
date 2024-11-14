@@ -9,7 +9,9 @@ A full-stack, serverless resume application built on AWS to demonstrate my skill
 - [Resume Optimizer](https://lnkd.in/gjKGfcEm): Using AWS PartyRock to create a Resume Optimizer for Job Applications.
 Amazon Rekognition
 - [Labels Generator](https://github.com/TaylorDJones11/AWSRekognition): Image labeling tool powered by Amazon Rekognition
-
+Amazon Lex Chatbot
+- [Language Translator](https://github.com/TaylorDJones11/LanguageBot): Language Translation Chatbot
+  
 ## AWS Ebook
 You can check out my ebook on AWS, designed to simplify cloud concepts for beginners and intermediate learners.
 
